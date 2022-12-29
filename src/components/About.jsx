@@ -10,7 +10,7 @@ const About = () => {
             </div>
 
             <p className='text-xl mt-20'>
-                Hii, My name is Joyjeet Mukherjee. I am a sophomore pursuing Computer Science & Engineering from ASANSOL ENGINEERING COLLEGE, WEST BENGAL, INDIA. 
+                Hii!! My name is Joyjeet Mukherjee. I am a sophomore pursuing Computer Science & Engineering from ASANSOL ENGINEERING COLLEGE, WEST BENGAL, INDIA. 
             </p>
             <br />
 
