@@ -10,7 +10,7 @@ const Home = () => {
         <div className='flex flex-col justify-center h-full '>
           <h2 className='text-4xl sm:text-7xl font-bold text-white'>I'm a Frontend Developer</h2>
           <p className='text-gray-500 py-4 max-w-md'>
-            I am an innovative Frontend Developer. I can create good SEO-friendly websites and have a good knowledge of <u>HTML</u>,<u>CSS</u> and <u>JAVASCRIPT</u> including framework like <u>TailwindCSS</u> and libraries like <u>ReactJs</u>
+            I am an innovative Frontend Developer. I can create good SEO-friendly websites and have a good knowledge of <b>HTML</b>,<b>CSS</b> and <b>JAVASCRIPT</b> including framework like <b>Tailwind CSS</b> and libraries like <b>ReactJs</b>
           </p>
 
           <div>

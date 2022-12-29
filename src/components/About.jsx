@@ -14,11 +14,11 @@ const About = () => {
             </p>
             <br />
 
-            <p className='text-xl'>I have good knowledge and a good grip over programming langauges like C++, C, Java. I have made this Portfolio website using ReactJs and Tailwind CSS only.</p>
+            <p className='text-xl'>I have a better knowledge and a good grip over programming langauges like C, C++, Java. I have made this Portfolio website using ReactJs and Tailwind CSS only.</p>
             <br />
-            <p className='text-xl'>Currently, I am balancing life between DSA & Development ( which is actually a fun fact ).</p>
+            <p className='text-xl'>Fun fact: Currently, my life is balancing between DSA & Development.</p>
             <br />
-            <p className='text-xl'>If any recruiter is currently looking at my website and like my work, feel free to contact me. Form is given below ( Absolutely workable ).</p>
+            <p className='text-xl'>If any recruiter is currently looking at my website and liking my work, feel free to contact me. Form is given below ( Absolutely workable ).</p>
         </div>
 
 
